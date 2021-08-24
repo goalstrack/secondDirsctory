@@ -1,0 +1,21 @@
+sudo apt update  - install updates
+
+sudo apt install docker.io
+this is used to install docker
+
+docker --version  to know the docker version
+
+sudo su
+to switch to root user
+
+sudo docker images to see images created
+
+to create docker image
+sudo docker pull ubuntu
+
+sudo docker run -it -d ubuntu  
+to see image number
+
+sudo docker ps
+to see detailed image information
+
